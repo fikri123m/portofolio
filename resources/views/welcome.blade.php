@@ -19,8 +19,8 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Clarence Taylor</span>
-                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/profile.jpg" alt="..." /></span>
+                <span class="d-block d-lg-none">mohammad fikri</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="assets/img/P.jpg" alt="..." /></span>
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -47,7 +47,7 @@
                         Padang, Sumatera Barat· (+62)82252043765
                         <a href="mailto:name@email.com">fi123ri@email.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
+                    <p class="lead mb-5">saya adalah seorang developer yang berfokus pada pengembangan aplikasi mobile menggunakan Flutter. Dengan pengalaman dalam membangun aplikasi yang responsif dan user-friendly, saya selalu berusaha menciptakan solusi inovatif untuk berbagai kebutuhan bisnis.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/mohammad-fikri-045766340/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon" href="https://github.com/fikri123m"><i class="fab fa-github"></i></a>
